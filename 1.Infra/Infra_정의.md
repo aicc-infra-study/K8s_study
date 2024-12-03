@@ -8,19 +8,19 @@
 - 네트워크 : 물리 - 케이블, 스위치, 라우터, 방화벽
 
 ## 02.  인프라 유형
-On - premise : 온프라미스
+### On - premise : 온프라미스
 - 기업 자체 데이터 센터 보유, 서버와 네트워크 구축 자체 운영
 - Private Cloud도 포함 ( 클라우드 컴퓨팅 )
 - 데이터 센터의 관리 ( 항온 항습기, 전력 시스템 ) 등 구축의 범위가 넓음
 
-Public Cloud
+### Public Cloud
 - Cloud Service Provider ( CSP ) 구축, 운영 관리
 - 직접 운영하거나 관리할 필요 없음, 운영 서비스 집중 가능
 
-CSP : 클라우드 서비스 제공 업체
+### CSP : 클라우드 서비스 제공 업체
 - 기업에서 네트워크를 통해 주문형으로 액세스 할 수 있는 클라우드 기반 컴퓨팅, 스토리지 등 확장 가능한 컴퓨팅 리소스를 제공하는 제3자 회사
 
-Cloud Computing
+### Cloud Computing
 - Private Cloud, Public Cloud
 - Private Cloud : 온프레미스 환경 구축, 특정 그룹만 접근 가능
 - Public Cloud : CSP가 구축 운영, 모든 사람 접근 가능
