@@ -24,3 +24,7 @@
 - Private Cloud, Public Cloud
 - Private Cloud : 온프레미스 환경 구축, 특정 그룹만 접근 가능
 - Public Cloud : CSP가 구축 운영, 모든 사람 접근 가능
+
+### 02. 미들웨어
+
+### 03. HTTP
